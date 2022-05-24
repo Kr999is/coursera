@@ -1,0 +1,80 @@
+@media (min-width:768px) and (max-width:991px) {
+    #p1 {
+        width: 47%;
+        position: relative;
+        float: left;
+    }
+    #p2 {
+        width: 96.5%;
+        position: relative;
+        float: left;
+    }
+}
+
+@media (min-width:992px) {
+    #p1 {
+        width: 32%;
+        box-sizing: border-box;
+        position: relative;
+        float: left;
+    }
+    #p2 {
+        width: 32%;
+        box-sizing: border-box;
+        position: relative;
+        float: left;
+    }
+}
+
+@media (max-width:767px) {
+    #p1 {
+        width: 97%;
+    }
+    #p2 {
+        width: 97%;
+    }
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+div {
+    background-color: gray;
+    padding-right: 0px;
+    padding-left: 7px;
+    padding-top: 0px;
+    margin: 0.5%;
+    border: 3px solid black
+}
+
+#D1 {
+    background-color: rgb(215, 135, 135);
+    margin-top: 0%;
+    margin-left: 90%;
+    font-family: cursive;
+    box-sizing: border-box;
+    border: 2px solid black;
+    float: right
+}
+
+#D2 {
+    background-color: rgba(192, 0, 58, 0.329);
+    margin-top: 0%;
+    margin-left: 90%;
+    font-family: cursive;
+    box-sizing: border-box;
+    border: 2px solid black;
+    float: right
+}
+
+#D3 {
+    background-color: rgb(210, 202, 138);
+    margin-top: 0%;
+    margin-left: 90%;
+    font-family: cursive;
+    box-sizing: border-box;
+    border: 2px solid black;
+    float: right
+}
