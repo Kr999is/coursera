@@ -1,0 +1,99 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: maroon;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+/* .navbar-toggler
+{
+border: 0px;
+}
+.navbar-toggler.collapsed
+{
+border: 0px;
+} */
+
+.navbar-brand {
+    padding-top: 1px;
+font-family: Arial, Helvetica, sans-serif;
+padding-bottom: 2px;
+}
+
+.navbar-brand h1 {
+    font-family: 'Lora', serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar
+{
+    padding-bottom: 3px;
+}
+
+.navbar-brand a {
+    text-decoration: none;
+}
+
+/* .navbar-brand p {
+    color: #000;
+    text-transform: uppercase;
+    font-size: .7em;
+    margin-top: 15px;
+} */
+/* button.right {
+    float: right;
+} */
+.dropdown-menu.show
+{  float: center;
+    margin-bottom: 20px;
+    padding: 0;
+    width: 100%;
+background-color: rgb(222, 239, 111);
+}
+/* .navbar-collapse.show 
+{
+ 
+} */
+.dropdown-item
+{
+    text-align: center;
+
+}
+ .hah {
+color:black;
+padding-top: 75px;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.mane
+{   margin-top: 10px;
+    background-color: aqua;
+    padding: 10px;
+    border:1px solid black;
+    font-family: 'oxygen',sans-serif;
+    font-style: oblique;
+    color:gray;
+}
+.haha {
+    color:rgb(217, 180, 68);
+text-align: center;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+
+.qwert
+{
+position: fixed;
+width: 100%;
+}
